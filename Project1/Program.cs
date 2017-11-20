@@ -6,7 +6,10 @@ namespace Project1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Breuer Viktor");
+            int a = 1;
+            int b = 2;
+            Console.WriteLine(a + b);
         }
     }
 }
